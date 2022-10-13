@@ -641,8 +641,10 @@ body {
     margin-bottom: 60px;
   }
 }
-
-.header {
+.mobile-menu-open-btn__icon{
+  color:#000;
+  
+} .header {
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: #ececec;
